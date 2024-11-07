@@ -43,5 +43,3 @@ if (!resultados) {
 
     section.innerHTML = resultados;
   }
-
-
